@@ -1,2 +1,3 @@
 # English-Dictionary-With-Django
-A english dictionary app made with Python Django
+## Preview
+![Image of demo](https://github.com/hossainchisty/Photo-Gallery-app/blob/master/FinalDemo.png)
