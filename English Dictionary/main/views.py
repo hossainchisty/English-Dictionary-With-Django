@@ -25,5 +25,3 @@ def word(request):
 
 
 
-
-   
